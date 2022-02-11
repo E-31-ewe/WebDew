@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Project: Recipe book</title>
+        <meta charset="utf-8">
+        <style>
+        </style>
+    </head>
+    <body>
+       
+        <h1>Katya's Recipe Book</h1>
+        
+        <h2>Contents:</h2>
+        
+        <ol>
+            <li><a href="https://eda.ru/recepty/vypechka-deserty/brauni-brownie-20955">Recipe #1</a></li>
+        </ol>
+        
+        <h2 id="?">Recipe #1</h2>
+        
+        <ul>
+            <li>Time: 40 min.</li>
+            <li>Serves: 6</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+            <td>
+                Dark chocolate<br>
+                Butter<br>
+                Brown sugar<br>
+                Egg<br>
+                Wheat flour<br>
+                Walnuts
+            </td>
+            <td>
+                100g<br>
+                180g<br>
+                200g<br>
+                4 p<br>
+                100g
+            </td>
+            </tbody>
+        </table>
+        
+        <p><strong>Step 1:</strong>  Break the chocolate into pieces and melt together with the butter in a water bath, stirring all the time with a spatula or a wooden spoon. Remove the resulting thick chocolate sauce from the water bath and leave to cool..
+</p>
+        
+              <p><strong>Step 2:</strong>  Meanwhile, mix the eggs with one hundred grams of brown sugar: break the eggs into a separate bowl and beat, gradually adding sugar. You can beat with a mixer or by hand - as you like - but not less than two and a half to three minutes.
+</p>
+       
+    <p><em>Source: <a href="https://eda.ru/recepty">Some recipes websites</a></em></p>
+    
+    </body>
+</html>
