@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Travel webpage</title>
+        <style>
+        h1{
+            color: rgb(237, 19, 95);
+        }
+        h2{
+            color: rgb(194, 27, 108);
+        }
+        body{
+            background-color: rgb(38, 206, 209);
+        }
+        #nature{
+            background-color: rgb(59, 145, 156);
+        }  
+        #culture{
+            background-color: rgb(59, 145, 156);
+        }
+        #economy{
+            background-color: rgb(59,145,156);
+        }
+            
+            
+        </style>
+    </head>
+    <body>
+    
+        <h1>Travel to Singapore</h1>
+        <h2> We will talk about:</h2>
+        <ul>
+            <li>Nature</li>
+            <li>Сulture</li>
+            <li>Economy</li>
+        </ul>
+        <p id="nature"><strong>Singapore</strong>'s natural vegetation is tropical rainforests, but most of them have been cleared and given over to agriculture, water tanks and urban development. The northern and northwestern regions remain the last untouched islands of equatorial vegetation, but most of them are cultivated and used as a garden and park area. Foci of forests have also been preserved on the islands.</p>
+    <img src = "https://upload.wikimedia.org/wikipedia/commons/8/88/Gateway_Avenue%2C_Sentosa%2C_Aug_06.JPG"  alt="nature of Singapore" width = "500">
+        
+    <p id="culture"><strong>Singaporean</strong> culture is a melting pot of primarily Chinese, British, Malay and Indian cultures. It is associated with the heterogeneous ethno-cultural composition and the youth of the state.<br>
+
+Being a city-state of businessmen surrounded by countries with cheap labor, Singapore, on the one hand, develops the entire European cultural complex and represents the culture of various ethnic groups, and on the other hand, it has developed a number of specific features.</p>
+ <img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/The_Esplanade_%E2%80%93_Theatres_on_the_Bay.jpg/1200px-The_Esplanade_%E2%80%93_Theatres_on_the_Bay.jpg" width = "500">
+ <p id ="economy"><strong>Singapore</strong>'s economy is a developed market economy, with one of the highest GDP per capita in the world. Singapore is considered one of the "East Asian tigers" for the rapid jump of the economy to the level of developed countries. The country has developed electronics production, shipbuilding, and the financial services sector. The country maintains stable prices.</p>
+ <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/2006Singaporean_exports.PNG/900px-2006Singaporean_exports.PNG" width = "500">
+    </body>
+</html>
